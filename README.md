@@ -64,7 +64,7 @@ After you're finished please remove all the comments and instructions!
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**[Portfolio website ]** is a Website Showing information of the Software developer or any other indivual who are showcasing there skills and Ready to be hired.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -97,21 +97,11 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
-- **[key_feature_1]**
-- **[key_feature_2]**
-- **[key_feature_3]**
+- **[project showcasing]**
+- **[Software Developer Tools]**
+- **[Navigation bar]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Live Demo Link](https://google.com)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -125,28 +115,20 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need:
-
-<!--
-Example command:
-
-```sh
- gem install rails
-```
- -->
+In order to run this project you first need?
+to clone or fork repository and create new branch then creat a pull request
 
 ### Setup
 
 Clone this repository to your desired folder:
 
+git clone https://github.com/richie1988/Hello-project/pull/1
 <!--
 Example commands:
 
 ```sh
   cd my-folder
-  git clone git@github.com:myaccount/my-project.git
-```
---->
+  git clone https://github.com/richie1988/Hello-project/pull/1
 
 ### Install
 
@@ -165,6 +147,8 @@ Example command:
 
 To run the project, execute the following command:
 
+ Install a liver server extension to your code editor and open it using the extension.
+
 <!--
 Example command:
 
@@ -176,6 +160,8 @@ Example command:
 ### Run tests
 
 To run tests, run the following command:
+
+npx stylelint "**/*.{css,scss}
 
 <!--
 Example command:
@@ -189,6 +175,11 @@ Example command:
 
 You can deploy this project using:
 
+github
+Vscode
+Git
+Cmd
+
 <!--
 Example:
 
@@ -201,21 +192,15 @@ Example:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
+## 👥 Authors <a name="Richard sikaonga"></a>
+Mumbere Habert,Zilola and richard sikaonga.
 
-> Mention all of the collaborators of this project.
+👤 **Author**
 
-👤 **Author1**
+- GitHub: [@githubhandle](https://github.com/richie1988)
+- Twitter: [@twitterhandle](RichieRichard)
+- LinkedIn: [LinkedIn](Richard Sikaonga)
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -223,11 +208,9 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
-
-- [ ] **[new_feature_1]**
-- [ ] **[new_feature_2]**
-- [ ] **[new_feature_3]**
+- [ 1] **[contact page]**
+- [ 2] **[projects page]**
+- [ 3] **[create style to the page]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -243,11 +226,8 @@ Feel free to check the [issues page](../../issues/).
 
 <!-- SUPPORT -->
 
-## ⭐️ Show your support <a name="support"></a>
-
-> Write a message to encourage readers to support your project
-
-If you like this project...
+## ⭐️ Show your support <a name="Star"></a>
+If you like this project please reach me to my contact page feel free and show your support 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,9 +235,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
-
-I would like to thank...
+I would like to thank The Microverse President for giving me the opportunity to study and to be able to be here Where I am today
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -281,7 +259,7 @@ I would like to thank...
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](MIT.md) licensed.
 
 _NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
